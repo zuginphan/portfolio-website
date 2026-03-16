@@ -3,7 +3,6 @@
 Portfolio and knowledge base website.
 
 ## Navigation
-
-- [Portfolio](portfolio/index.md)
 - [Knowledge Base](knowledge-base/index.md)
-- [About](about.md)
+- [Tag](tags/index.md)
+- [About Me](about.md)
