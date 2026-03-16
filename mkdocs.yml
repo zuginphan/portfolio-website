@@ -1,10 +1,7 @@
 site_name: My Portfolio
 site_description: Portfolio and knowledge base
-site_author: Your Name
-site_url: https://yourusername.github.io/repository-name
-
-repo_name: repository-name
-repo_url: https://github.com/yourusername/repository-name
+site_author: Hien Phan (Zugin)
+site_url: https://zuginphan.github.io/portfolio-website
 
 theme:
   name: material
@@ -50,11 +47,11 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Portfolio:
-    - portfolio/index.md
+  - About Me: about.md
   - Knowledge Base:
     - knowledge-base/index.md
+  - Tags:
+    - tags/index.md
 
 plugins:
   - search
